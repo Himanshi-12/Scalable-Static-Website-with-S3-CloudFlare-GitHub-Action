@@ -1,5 +1,4 @@
-# Scalable-Static-Website-with-S3-CloudFlare-GitHub-Action
-Host and auto-deploy a static website using S3(free tier) with global CDN and HTTPS via Cloudflare, triggered through GitHub commits.
+# Project 6: Scalable Static Website with S3 + Cloudflare + GitHub Actions
 
 ## Objective
 Host and auto-deploy a static website using AWS S3, Cloudflare, and GitHub Actions.
@@ -54,4 +53,3 @@ git push -u origin main
 
 ### Step 7: Visit Your Site
 Use your Cloudflare custom domain with HTTPS.
-
